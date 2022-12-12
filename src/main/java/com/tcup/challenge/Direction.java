@@ -1,2 +1,5 @@
-package com.tcup.challenge;public enum Direction {
+package com.tcup.challenge;
+
+public enum Direction {
+    forward, backward
 }
